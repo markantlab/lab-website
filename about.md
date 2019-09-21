@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Lab
+title: People
 comments: false
 ---
 
