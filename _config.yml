@@ -10,7 +10,7 @@ title:            Markant Lab
 tagline:          'Learning, Decision making, & Cognitive Science'
 description:      'Learning, decision making, & cognitive science'
 url:              https://markantlab.github.io/
-baseurl:          /
+baseurl:          lab-website/
 
 author:
   name:           'Doug Markant'
