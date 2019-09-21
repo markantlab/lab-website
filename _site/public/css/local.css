@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC&display=swap');
+
+/* Center the content */
+
+.main {
+    margin: 0 auto;
+    width: 80%;
+}
+
+@media (min-width: 40em) {
+  .sidebar {
+    /*position: relative;*/
+    position: fixed;
+    left: 10%;
+    width: 16rem;
+  }
+}
+
+
+.content {
+  padding-top:    2rem;
+  padding-bottom: 2rem;
+}
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 38rem;
+    margin-left: 18rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 18rem;
+    margin-right: 4rem;
+  }
+}
+
+.sidebar-bottom {
+    margin-top: 160px;
+}
+
+
+
+
+a img {
+border:none;
+}
+
+a:hover {
+    background-color: white;
+}
+
+
+li {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+ul li ul li {
+    color: gray;
+    font-style: italic;
+    padding-left: 0px;
+    margin-left: -15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+img.inline-right {
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+}
+
+.attn {
+    font-size: 1.1em;
+}
+
+h1, h1.page-title {
+    font-size: 1.7em;
+    font-weight: bold;
+    font-family: Alegreya SC;
+    color: #bebebe;
+}
+
+h1.post-title {
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;  
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+
+#img-portrait {
+    width: 11rem;
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+}
+
+.img-float {
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}
+
+.selectedpubs {
+    font-size: .8rem;
+}

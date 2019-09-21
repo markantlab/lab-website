@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Markant Lab
+tagline:          'Learning, Decision making, & Cognitive Science'
+description:      'Learning, decision making, & cognitive science'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Doug Markant'
+  url:            https://twitter.com/dougmarkant
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+plugins: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/poole/hyde
