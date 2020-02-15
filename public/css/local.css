@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 
 /* Center the content */
 
@@ -20,6 +21,7 @@
 .content {
   padding-top:    2rem;
   padding-bottom: 2rem;
+  font-size: .9em;
 }
 
 @media (min-width: 48em) {
