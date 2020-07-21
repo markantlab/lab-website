@@ -27,20 +27,21 @@
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 18rem;
+    margin-left: 16rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 18rem;
+    margin-left: 16rem;
     margin-right: 4rem;
   }
 }
 
 .sidebar-bottom {
-    margin-top: 160px;
+    position: absolute;
+    bottom: 0;
 }
 
 
@@ -89,7 +90,7 @@ h1, h1.page-title {
 }
 
 h1.post-title {
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;  
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 1.3em;
     font-weight: bold;
 }
