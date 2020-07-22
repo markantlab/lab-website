@@ -4,7 +4,7 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-22T14:22:14-04:00</updated>
+ <updated>2020-07-22T14:27:32-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
@@ -27,12 +27,11 @@
 
 &lt;p&gt;An individual’s risk preference is thought to influence whether they will go with the safe or risky option in this kind of well-defined decision.&lt;/p&gt;
 
-&lt;p&gt;But many real-world choices are &lt;em&gt;ill-defined&lt;/em&gt;, in that the set of possible actions aren’t provided for you. Instead, you have to generate possible actions for yourself. Do risk preferences affect how people generate actions in uncertain situations, just as they affect choices between predetermined options?&lt;/p&gt;
+&lt;p&gt;But many real-world choices are &lt;em&gt;ill-defined&lt;/em&gt;, in that a set of choice options is never explicitly provided to you. Instead, you have to generate possible courses of action for yourself. Do risk preferences affect how people &lt;em&gt;generate&lt;/em&gt; actions in ill-defined, uncertain situations, just as they affect choices between predetermined options?&lt;/p&gt;
 
 &lt;p&gt;This is the question behind an ongoing project in the lab (with Meagan Padro and Mitra Mostafavi) and the topic of a poster that will be presented at CogSci 2020. To learn more, click on the image below to get the PDF of the poster. If you attend CogSci swing by the (virtual) poster session on August 1, 11:00-12:40 EDT!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/2020_CogSci_poster.pdf&quot;&gt;&lt;img src=&quot;/assets/2020_CogSci_poster.png&quot; alt=&quot;cogsci-poster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
 </content>
  </entry>
  
