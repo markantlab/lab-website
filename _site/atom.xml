@@ -4,13 +4,37 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-21T10:33:04-04:00</updated>
+ <updated>2020-07-22T14:17:07-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>CogSci 2020 - Risk preferences and option generation</title>
+   <link href="http://localhost:4000/2020/07/22/cogsciposter/"/>
+   <updated>2020-07-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2020/07/22/cogsciposter</id>
+   <content type="html">&lt;p&gt;It’s well-known in the behavioral sciences that people differ in their attitude toward taking risks. Some individuals are risk-seekers who like to roll the dice, while others are risk-averse because they prefer to play it safe.&lt;/p&gt;
+
+&lt;p&gt;Past studies of risk attitudes have typically focused on &lt;em&gt;well-defined&lt;/em&gt; choices in which the set of possible actions are predetermined by the researcher and the possible outcomes of each action are known. For example, a person might face a choice between:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Option A (safe): earning $5&lt;/li&gt;
+  &lt;li&gt;Option B (risky): earning a lottery ticket with a 5% chance of winning $100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An individual’s risk preference is thought to influence whether they will go with the safe or risky option in this kind of well-defined decision.&lt;/p&gt;
+
+&lt;p&gt;But many real-world choices are &lt;em&gt;ill-defined&lt;/em&gt;, in that the set of possible actions aren’t provided for you. Instead, you have to generate possible actions for yourself. Do risk preferences affect how people generate actions in uncertain situations, just as they affect choices between predetermined options?&lt;/p&gt;
+
+&lt;p&gt;This is the question behind an ongoing project in the lab (with Meagan Padro and Mitra Mostafavi) and the topic of a poster that will be presented at CogSci 2020. To learn more, click on the image below to get the PDF of the poster. If you attend CogSci swing by the (virtual) poster session on August 1, 11:00-12:40 EDT!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/2020_CogSci_poster.pdf&quot;&gt;&lt;img src=&quot;/assets/2020_CogSci_poster.png&quot; alt=&quot;cogsci-poster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Psychonomics 2018 - Building relational knowledge through active control</title>
