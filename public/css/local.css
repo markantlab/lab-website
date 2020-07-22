@@ -8,6 +8,13 @@
     width: 80%;
 }
 
+.sidebar-bottom {
+  display: none;
+  /* position: relative;
+  margin-top: 2rem; */
+}
+
+
 @media (min-width: 40em) {
   .sidebar {
     /*position: relative;*/
@@ -15,8 +22,8 @@
     left: 10%;
     width: 16rem;
   }
-}
 
+}
 
 .content {
   padding-top:    2rem;
@@ -30,6 +37,11 @@
     margin-left: 16rem;
     margin-right: 2rem;
   }
+  .sidebar-bottom {
+    display: block;
+    position: absolute;
+    bottom: 0;
+  }
 }
 
 @media (min-width: 64em) {
@@ -39,10 +51,6 @@
   }
 }
 
-.sidebar-bottom {
-    position: absolute;
-    bottom: 0;
-}
 
 
 
