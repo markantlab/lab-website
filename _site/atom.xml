@@ -4,7 +4,7 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-22T14:27:32-04:00</updated>
+ <updated>2020-08-19T07:52:54-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
@@ -13,7 +13,18 @@
 
  
  <entry>
-   <title>CogSci 2020 - Risk preferences and option generation</title>
+   <title>CogSci 2020 [talk] - Chained study and relational discovery</title>
+   <link href="http://localhost:4000/2020/07/24/cogscitalk/"/>
+   <updated>2020-07-24T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2020/07/24/cogscitalk</id>
+   <content type="html">&lt;p&gt;How do people discover relational knowledge through experience? I recently presented a talk on this topic at the all-virtual &lt;a href=&quot;https://cognitivesciencesociety.org/cogsci-2020/&quot;&gt;2020 Meeting of the Cognitive Science Society&lt;/a&gt;. See the embedded video below for an overview of the project, or the &lt;a href=&quot;/assets/Markant_CogSci2020_TIAwareness.pdf&quot;&gt;proceedings paper&lt;/a&gt; for more detail.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://widgets.figshare.com/articles/12743354/embed?show_title=1&quot; width=&quot;568&quot; height=&quot;426&quot; allowfullscreen=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CogSci 2020 [poster] - Risk preferences and option generation</title>
    <link href="http://localhost:4000/2020/07/22/cogsciposter/"/>
    <updated>2020-07-22T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/07/22/cogsciposter</id>

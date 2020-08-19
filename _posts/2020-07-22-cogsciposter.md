@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CogSci 2020 - Risk preferences and option generation
+title: CogSci 2020 [poster] - Risk preferences and option generation
 comments: False
 ---
 
