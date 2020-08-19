@@ -15,6 +15,13 @@
 }
 
 
+iframe {
+  width: 500px;
+  height: 400px;
+}
+
+
+
 @media (min-width: 40em) {
   .sidebar {
     /*position: relative;*/
@@ -22,7 +29,6 @@
     left: 10%;
     width: 16rem;
   }
-
 }
 
 .content {
@@ -42,12 +48,20 @@
     position: absolute;
     bottom: 0;
   }
+  iframe {
+    width: 568px;
+    height: 426px;
+  }  
 }
 
 @media (min-width: 64em) {
   .content {
     margin-left: 16rem;
     margin-right: 4rem;
+  }
+  iframe {
+    width: 620px;
+    height: 465px;
   }
 }
 
