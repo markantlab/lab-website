@@ -4,7 +4,7 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-24T09:43:43-04:00</updated>
+ <updated>2020-10-24T09:47:39-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
@@ -20,7 +20,7 @@
    <content type="html">&lt;p&gt;Do people change their beliefs when they see a data visualization like a scatterplot? Communicating science and making evidence-based arguments often involve data visualizations like the one below. It can be tempting to think that “the data speaks for itself”—that it paints a clear, relatively unambiguous picture about the relationship between a set of variables. But the mere presentation of statistical evidence, no matter how strong, does not guarantee that people will change their minds, particularly when they have strong preexisting beliefs that run counter to the data.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;http://localhost:4000/assets/maskdata.png&quot; alt=&quot;Mask use&quot; width=&quot;350px&quot; /&gt;
+  &lt;img src=&quot;//assets/mask_data.png&quot; alt=&quot;Mask use&quot; width=&quot;350px&quot; /&gt;
   &lt;figcaption&gt;A recent figure showing a strong negative correlation between mask-wearing and COVID19 case counts. Would this change someone's mind if they believe these variables are unrelated?&lt;/figcaption&gt;
 &lt;/figure&gt;
 
