@@ -4,7 +4,7 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-24T10:08:40-04:00</updated>
+ <updated>2020-10-24T10:14:46-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
@@ -24,12 +24,12 @@
   &lt;figcaption&gt;A recent figure showing a strong negative correlation between mask-wearing and COVID19 case counts. Would this change someone's mind if they believe these variables are unrelated?&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;In a new &lt;a href=&quot;https://arxiv.org/abs/2008.00058&quot;&gt;VIS 2020 paper&lt;/a&gt;, my colleagues and I examined how people update their beliefs about statistical relationships when viewing scatterplots. We developed some new methods for eliciting beliefs about these relationships and used computational modeling to evaluate the impact of data visualizations on belief updating. This project adds to a growing number of studies that aim to better understand (and model) how people learn through interactive data visualizations, including cases where such visualizations fail to persuade.&lt;/p&gt;
+&lt;p&gt;In a new &lt;a href=&quot;https://arxiv.org/abs/2008.00058&quot;&gt;VIS 2020 paper&lt;/a&gt;, my colleagues and I examined how people update their beliefs about statistical relationships when viewing scatterplots. We developed some new methods for eliciting beliefs about these relationships and used computational modeling to evaluate the impact of different types of scatterplot visualizations on belief updating. This project adds to a growing number of studies that aim to better understand (and model) how people learn through interactive data visualizations, including cases where such visualizations fail to persuade.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;A favorite paper of mine which reviews the many ways people avoid updating their beliefs in the face of contradictory evidence is &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.3102/00346543063001001?casa_token=jfRYOu5D1FAAAAAA:k6XnFHj-1QPV-SqcC9pFKob3iI5j-QIewkgoUPlO6qOeEosoScL20lRW7LmO6X_WIT-vhpMzYpjQtg&quot;&gt;Chinn and Brewer (1993)&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A favorite paper of mine which reviews the many ways people avoid updating their beliefs in the face of contradictory evidence is &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.3102/00346543063001001?casa_token=jfRYOu5D1FAAAAAA:k6XnFHj-1QPV-SqcC9pFKob3iI5j-QIewkgoUPlO6qOeEosoScL20lRW7LmO6X_WIT-vhpMzYpjQtg&quot;&gt;Chinn and Brewer (1993)&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
