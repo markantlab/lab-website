@@ -134,3 +134,8 @@ h1.post-title {
 .selectedpubs {
     font-size: .8rem;
 }
+
+figcaption {
+    font-size: .8rem;
+    font-style: italic;
+}

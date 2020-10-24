@@ -4,13 +4,37 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-24T06:40:44-04:00</updated>
+ <updated>2020-10-24T09:40:24-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>VIS 2020 [paper] - Belief updating from scatterplots</title>
+   <link href="http://localhost:4000/2020/10/24/VIS/"/>
+   <updated>2020-10-24T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2020/10/24/VIS</id>
+   <content type="html">&lt;p&gt;Do people change their beliefs when they see a data visualization like a scatterplot? Communicating science and making evidence-based arguments often involve data visualizations like the one below. It can be tempting to think that “the data speaks for itself”—that it paints a clear, relatively unambiguous picture about the relationship between a set of variables. But the mere presentation of statistical evidence, no matter how strong, does not guarantee that people will change their minds, particularly when they have strong preexisting beliefs that run counter to the data.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;//assets/maskdata.png&quot; alt=&quot;Mask use&quot; width=&quot;350px&quot; /&gt;
+  &lt;figcaption&gt;A recent figure showing a strong negative correlation between mask-wearing and COVID19 case counts. Would this change someone's mind if they believe these variables are unrelated?&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In a new &lt;a href=&quot;https://arxiv.org/abs/2008.00058&quot;&gt;VIS 2020 paper&lt;/a&gt;, my colleagues and I examined how people update their beliefs about statistical relationships when viewing scatterplots. We developed some new methods for eliciting beliefs about these relationships and used computational modeling to evaluate the impact of data visualizations on belief updating. The project adds to a growing number of studies that aim to better understand (and model) how people learn through interactive data visualizations.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;A favorite paper of mine which reviews the many ways people &lt;em&gt;avoid&lt;/em&gt; updating their beliefs in the face of contradictory evidence is &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.3102/00346543063001001?casa_token=jfRYOu5D1FAAAAAA:k6XnFHj-1QPV-SqcC9pFKob3iI5j-QIewkgoUPlO6qOeEosoScL20lRW7LmO6X_WIT-vhpMzYpjQtg&quot;&gt;Chinn and Brewer (1993)&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>CogSci 2020 [talk] - Chained study and relational discovery</title>
