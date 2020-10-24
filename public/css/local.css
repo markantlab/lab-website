@@ -35,6 +35,7 @@ iframe {
   padding-top:    2rem;
   padding-bottom: 2rem;
   font-size: .9em;
+  text-align: justify;
 }
 
 @media (min-width: 48em) {
@@ -51,7 +52,7 @@ iframe {
   iframe {
     width: 568px;
     height: 426px;
-  }  
+  }
 }
 
 @media (min-width: 64em) {
@@ -135,7 +136,13 @@ h1.post-title {
     font-size: .8rem;
 }
 
+figure img {
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
 figcaption {
+    text-align: justify;
     font-size: .8rem;
     font-style: italic;
 }
