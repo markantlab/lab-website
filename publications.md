@@ -9,7 +9,9 @@ comments: false
 
 ## Published
 
-- Karduni, A., Markant, D., Wesslen, R., & Dou, W. (in press, 2021). [A Bayesian cognition approach for belief updating of correlation judgment through uncertainty visualizations.](https://arxiv.org/abs/2008.00058) <i>IEEE Transactions on Visualization and Computer Graphics (TVCG).</i>
+- Wesslen, R., Karduni, A., Markant, D., and Dou, W. (in press). [Effects of uncertainty visualizations on myopic loss aversion and equity premium puzzle in retirement investment decisions.](https://arxiv.org/abs/2107.02334) <i>IEEE Transactions on Visualization and Computer Graphics.</i>
+- Markant, D. (2021). [Chained study and the discovery of relational structure.](http://link.springer.com/article/10.3758/s13421-021-01201-1) <i>Memory and Cognition.</i> doi: 10.3758/s13421-021-01201-1 [[data repository](https://osf.io/hnp2j/)]
+- Karduni, A., Markant, D., Wesslen, R., & Dou, W. (2021). [A Bayesian cognition approach for belief updating of correlation judgment through uncertainty visualizations.](https://arxiv.org/abs/2008.00058) <i>IEEE Transactions on Visualization and Computer Graphics (TVCG).</i>
 - Markant, D. (2020). [Active transitive inference: When learner control facilitates integrative encoding.](https://www.sciencedirect.com/science/article/pii/S001002772030007X) <i>Cognition 200</i>. doi: 10.1016/j.cognition.2020.104188
 - Markant, D. (2020). [Effects of “chained” study on spontaneous relational discovery.](/assets/Markant_CogSci2020_TIAwareness.pdf) In Denison, S., Mack, M., Xu, Yang., and Armstrong, B., editors, Proceedings of the 42nd Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
   - Watch the talk related to this paper [here]({% post_url 2020-07-24-cogscitalk %}).
