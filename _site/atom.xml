@@ -4,13 +4,35 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-07-16T11:57:18-04:00</updated>
+ <updated>2021-08-11T14:43:32-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Chained study and the discovery of relational structure [paper]</title>
+   <link href="http://localhost:4000/2021/07/15/MemoryCognition/"/>
+   <updated>2021-07-15T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/07/15/MemoryCognition</id>
+   <content type="html">&lt;p&gt;Imagine that you’ve started a new job and you’ve noticed some perplexing patterns in how your co-workers interact. For example, you observe Bill being rude to Anna, but then shortly after he is perfectly nice when interacting with Carol. 
+What might explain why Bill acts differently in these situations?&lt;/p&gt;
+
+&lt;p&gt;One explanation is that Bill’s behavior reveals an underlying hierarchy (or ranking) of the kind commonly seen in social environments, whether they are formal (e.g., management structure) or informal (e.g., based on popularity). 
+Bill is rude to Anna because he’s ranked higher in the social hierarchy, but is deferential to Carol because he’s ranked lower than her.
+By observing differences in how people interact across different contexts, you can discover the underlying hierarchy and make sense of seemingly inconsistent behaviors.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;//assets/ati-social.png&quot; alt=&quot;Social hierarchy&quot; width=&quot;500px&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In a &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-021-01201-1&quot;&gt;new paper now out in Memory &amp;amp; Cognition&lt;/a&gt;, I examine how people acquire this kind of relational knowledge through trial and error learning. This work focuses on a more difficult version of this problem where people may not be aware that an underlying hierarchy exists (compared to social situations, in which people have prior knowledge about how social groups are commonly organized and interact). Past research has shown that some people nevertheless are able to discover that underlying hierarchy, and in this paper I examine the kinds of learning experiences that are most likely to facilitate that relational discovery.&lt;/p&gt;
+
+&lt;p&gt;For more information, &lt;a href=&quot;http://www.markantlab.org/2020/07/24/cogscitalk/&quot;&gt;watch a talk&lt;/a&gt; related to this project, or take a look at &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-021-01201-1&quot;&gt;the paper&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>VIS 2020 [paper] - Belief updating from scatterplots</title>
