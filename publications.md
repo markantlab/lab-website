@@ -9,6 +9,7 @@ comments: false
 
 ## Published
 
+- Markant, D. (2022). [Modeling the effect of chained study in transitive inference.](/assets/Markant_CogSci2022.pdf) Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 - Wesslen, R., Karduni, A., Markant, D., and Dou, W. (in press). [Effects of uncertainty visualizations on myopic loss aversion and equity premium puzzle in retirement investment decisions.](https://arxiv.org/abs/2107.02334) <i>IEEE Transactions on Visualization and Computer Graphics.</i>
 - Markant, D. (2021). [Chained study and the discovery of relational structure.](http://link.springer.com/article/10.3758/s13421-021-01201-1) <i>Memory and Cognition.</i> doi: 10.3758/s13421-021-01201-1 [[data repository](https://osf.io/hnp2j/)]
 - Karduni, A., Markant, D., Wesslen, R., & Dou, W. (2021). [A Bayesian cognition approach for belief updating of correlation judgment through uncertainty visualizations.](https://arxiv.org/abs/2008.00058) <i>IEEE Transactions on Visualization and Computer Graphics (TVCG).</i>
