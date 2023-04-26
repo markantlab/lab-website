@@ -30,12 +30,12 @@ For more information on our research, please see the list of [publications](/pub
 
 ## Current members of the lab
 
-- Eli Cordes (undergraduate)
-- Amber Forrester (undergraduate)
-- Shaina Glass (undergraduate)
-- Arielle Little (undergraduate, Honors)
-- Mitra Mostafavi (Cognitive Science certificate program)
-- Travis White (MA Psychology)
+### Graduate students
+
+- Shaina Glass, Ph.D. program in Health Psychology
+- Josh Gordon, Ph.D. program in Health Psychology
+- Ryan Hall, Ph.D. program in Health Psychology
+
 
 
 <!--## Past members

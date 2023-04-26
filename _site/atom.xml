@@ -4,7 +4,7 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-08-11T14:43:32-04:00</updated>
+ <updated>2023-04-26T13:52:55-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
@@ -20,17 +20,17 @@
    <content type="html">&lt;p&gt;Imagine that you’ve started a new job and you’ve noticed some perplexing patterns in how your co-workers interact. For example, you observe Bill being rude to Anna, but then shortly after he is perfectly nice when interacting with Carol. 
 What might explain why Bill acts differently in these situations?&lt;/p&gt;
 
-&lt;p&gt;One explanation is that Bill’s behavior reveals an underlying hierarchy (or ranking) of the kind commonly seen in social environments, whether they are formal (e.g., management structure) or informal (e.g., based on popularity). 
-Bill is rude to Anna because he’s ranked higher in the social hierarchy, but is deferential to Carol because he’s ranked lower than her.
-By observing differences in how people interact across different contexts, you can discover the underlying hierarchy and make sense of seemingly inconsistent behaviors.&lt;/p&gt;
-
 &lt;figure&gt;
   &lt;img src=&quot;//assets/ati-social.png&quot; alt=&quot;Social hierarchy&quot; width=&quot;500px&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;In a &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-021-01201-1&quot;&gt;new paper now out in Memory &amp;amp; Cognition&lt;/a&gt;, I examine how people acquire this kind of relational knowledge through trial and error learning. This work focuses on a more difficult version of this problem where people may not be aware that an underlying hierarchy exists (compared to social situations, in which people have prior knowledge about how social groups are commonly organized and interact). Past research has shown that some people nevertheless are able to discover that underlying hierarchy, and in this paper I examine the kinds of learning experiences that are most likely to facilitate that relational discovery.&lt;/p&gt;
+&lt;p&gt;One explanation is that Bill’s behavior reveals an underlying hierarchy (or ranking) of the kind commonly seen in social environments, whether they are formal (e.g., based on a management structure) or informal (e.g., based on popularity). 
+Bill might be rude to Anna because he’s ranked higher in the social hierarchy, but deferential to Carol because he’s ranked lower than her.
+By observing differences in how people interact across different contexts, you can discover the underlying hierarchy and make sense of seemingly inconsistent behaviors.&lt;/p&gt;
 
-&lt;p&gt;For more information, &lt;a href=&quot;http://www.markantlab.org/2020/07/24/cogscitalk/&quot;&gt;watch a talk&lt;/a&gt; related to this project, or take a look at &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-021-01201-1&quot;&gt;the paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-021-01201-1&quot;&gt;new paper now out in Memory &amp;amp; Cognition&lt;/a&gt;, I examine how people acquire this kind of relational knowledge through trial and error learning. This work focuses on a more difficult version of this problem where people are unaware that an underlying hierarchy exists (compared to social situations, in which people can rely on prior knowledge about how social groups are commonly organized and interact). Past research has shown that some people nevertheless are able to discover that underlying hierarchy, and in this paper I examine the kinds of learning experiences that are most likely to facilitate that relational discovery.&lt;/p&gt;
+
+&lt;p&gt;To learn more, &lt;a href=&quot;http://www.markantlab.org/2020/07/24/cogscitalk/&quot;&gt;watch a talk&lt;/a&gt; related to this project, or take a look at &lt;a href=&quot;https://link.springer.com/article/10.3758/s13421-021-01201-1&quot;&gt;the paper&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -39,19 +39,19 @@ By observing differences in how people interact across different contexts, you c
    <link href="http://localhost:4000/2020/10/24/VIS/"/>
    <updated>2020-10-24T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/10/24/VIS</id>
-   <content type="html">&lt;p&gt;Do people change their beliefs when they see a data visualization like a scatterplot? Communicating science and making evidence-based arguments often involve data visualizations like the one below. It can be tempting to think that “the data speaks for itself”—that it paints a clear, relatively unambiguous picture about the relationship between a set of variables. But the mere presentation of statistical evidence, no matter how strong, does not guarantee that people will change their minds, particularly when they have strong preexisting beliefs that run counter to the data.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;Do people change their beliefs when they see a data visualization like a scatterplot? Communicating science and making evidence-based arguments often involve data visualizations like the one below. It can be tempting to think that “the data speaks for itself”—that it paints a clear, relatively unambiguous picture about the relationship between a set of variables. But the mere presentation of statistical evidence, no matter how strong, does not guarantee that people will change their minds, particularly when they have strong preexisting beliefs that run counter to the data.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;//assets/mask_data.png&quot; alt=&quot;Mask use&quot; width=&quot;350px&quot; /&gt;
-  &lt;figcaption&gt;A recent figure showing a strong negative correlation between mask-wearing and COVID19 case counts. Would this change someone's mind if they believe these variables are unrelated?&lt;/figcaption&gt;
+  &lt;figcaption&gt;A recent figure showing a strong negative correlation between mask-wearing and COVID19 case counts. Would this change someone&apos;s mind if they believe these variables are unrelated?&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;In a new &lt;a href=&quot;https://arxiv.org/abs/2008.00058&quot;&gt;VIS 2020 paper&lt;/a&gt;, my colleagues and I examined how people update their beliefs about statistical relationships when viewing scatterplots. We developed some new methods for eliciting beliefs about these relationships and used computational modeling to evaluate the impact of different types of scatterplot visualizations on belief updating. This project adds to a growing number of studies that aim to better understand (and model) how people learn through interactive data visualizations, including cases where such visualizations fail to persuade.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;A favorite paper of mine which reviews the many ways people avoid updating their beliefs in the face of contradictory evidence is &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.3102/00346543063001001?casa_token=jfRYOu5D1FAAAAAA:k6XnFHj-1QPV-SqcC9pFKob3iI5j-QIewkgoUPlO6qOeEosoScL20lRW7LmO6X_WIT-vhpMzYpjQtg&quot;&gt;Chinn and Brewer (1993)&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A favorite paper of mine which reviews the many ways people avoid updating their beliefs in the face of contradictory evidence is &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.3102/00346543063001001?casa_token=jfRYOu5D1FAAAAAA:k6XnFHj-1QPV-SqcC9pFKob3iI5j-QIewkgoUPlO6qOeEosoScL20lRW7LmO6X_WIT-vhpMzYpjQtg&quot;&gt;Chinn and Brewer (1993)&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -97,7 +97,7 @@ By observing differences in how people interact across different contexts, you c
    <link href="http://localhost:4000/2018/11/17/psychonomicsposter/"/>
    <updated>2018-11-17T00:00:00-05:00</updated>
    <id>http://localhost:4000/2018/11/17/psychonomicsposter</id>
-   <content type="html">&lt;p&gt;In some prior work, my colleagues and I have found that active control—being able to dictate the content or pacing of information—leads to enhanced episodic memory for materials experienced during study.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Let’s say that I’m your instructor and I have a set of definitions on flashcards that I want you to learn. If I give you (the student) more control over the selection and pacing of flashcards, it’s likely that you’ll have better memory later on compared to conditions where you don’t have control.&lt;/p&gt;
+   <content type="html">&lt;p&gt;In some prior work, my colleagues and I have found that active control—being able to dictate the content or pacing of information—leads to enhanced episodic memory for materials experienced during study.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Let’s say that I’m your instructor and I have a set of definitions on flashcards that I want you to learn. If I give you (the student) more control over the selection and pacing of flashcards, it’s likely that you’ll have better memory later on compared to conditions where you don’t have control.&lt;/p&gt;
 
 &lt;p&gt;But as an instructor, I don’t &lt;em&gt;just&lt;/em&gt; want my students to memorize a set of independent definitions. I also want them to integrate those concepts together to form some coherent knowledge about the domain. For example, I don’t just want my research methods students to be able to define different types of validity; I also want them to be able to relate them to each other and the broader goals of experimental methods. In contrast to the first goal of forming memories of independent sets of items, it is less clear to what extent having control over learning leads to enhanced integration of study experiences into conceptual knowledge.&lt;/p&gt;
 
@@ -107,13 +107,13 @@ By observing differences in how people interact across different contexts, you c
 
 &lt;p&gt;&lt;a href=&quot;/assets/2018_Psychonomics_poster.pdf&quot;&gt;&lt;img src=&quot;/assets/2018_Psychonomics_poster.png&quot; alt=&quot;psychonomics-poster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016). &lt;a href=&quot;/assets/MarkantEtAl_MBE2016.pdf&quot;&gt;“Enhanced memory as a common effect of active learning.”&lt;/a&gt; &lt;i&gt;Mind, Brain, and Education.&lt;/i&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016). &lt;a href=&quot;/assets/MarkantEtAl_MBE2016.pdf&quot;&gt;“Enhanced memory as a common effect of active learning.”&lt;/a&gt; &lt;i&gt;Mind, Brain, and Education.&lt;/i&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Markant, D., Dubrow, S., Davachi, L., and Gureckis, T.M. (2014). &lt;a href=&quot;http://link.springer.com/article/10.3758/s13421-014-0435-9&quot;&gt;“Deconstructing the effect of self-directed study on episodic memory.”&lt;/a&gt; &lt;i&gt;Memory &amp;amp; Cognition 42&lt;/i&gt;(8), 1211—1224. doi: 10.3758/s13421-014-0435-9 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Markant, D., Dubrow, S., Davachi, L., and Gureckis, T.M. (2014). &lt;a href=&quot;http://link.springer.com/article/10.3758/s13421-014-0435-9&quot;&gt;“Deconstructing the effect of self-directed study on episodic memory.”&lt;/a&gt; &lt;i&gt;Memory &amp;amp; Cognition 42&lt;/i&gt;(8), 1211—1224. doi: 10.3758/s13421-014-0435-9 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -127,21 +127,21 @@ By observing differences in how people interact across different contexts, you c
    <id>http://localhost:4000/2016/11/15/psychonomicsposter</id>
    <content type="html">&lt;p&gt;Imagine that you’re on Amazon trying to decide which of two products to purchase. One way to learn about the options before you buy is to look at reviews from other people who have bought the same items. Each review gives you a glimpse into the relative value of each option, and you can explore each item (i.e., keep on reading reviews) for as long as you like until you feel ready to hit the buy button.&lt;/p&gt;
 
-&lt;p&gt;So, how many reviews do you decide to read for each product? How does the variability in the ratings affect how long you explore—for example, is there a difference between seeing a string of solid 4-star reviews as opposed to a mixture of 5-star and 3-star reviews? How does your exploration change when searching for a relatively mundane product like a power adapter as opposed to a major purchase like a computer?&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;So, how many reviews do you decide to read for each product? How does the variability in the ratings affect how long you explore—for example, is there a difference between seeing a string of solid 4-star reviews as opposed to a mixture of 5-star and 3-star reviews? How does your exploration change when searching for a relatively mundane product like a power adapter as opposed to a major purchase like a computer?&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;At Psychonomics this week I’m presenting some new results from a project where we try to understand how people adapt their exploration in response to these kinds of environmental factors, including the variability in the outcomes they experience and the rewards that are at stake. The experiment described in the poster below was designed to test the predictions of a sequential sampling model that accounts for this adaptive exploration and its effects on how people make choices. Sequential sampling models are widely used to model the relationship between choices and response times in a number of decision making tasks&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and our results suggest that similar mechanisms can account for the way that people sample experiences from the environment prior to making a choice.&lt;/p&gt;
+&lt;p&gt;At Psychonomics this week I’m presenting some new results from a project where we try to understand how people adapt their exploration in response to these kinds of environmental factors, including the variability in the outcomes they experience and the rewards that are at stake. The experiment described in the poster below was designed to test the predictions of a sequential sampling model that accounts for this adaptive exploration and its effects on how people make choices. Sequential sampling models are widely used to model the relationship between choices and response times in a number of decision making tasks&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and our results suggest that similar mechanisms can account for the way that people sample experiences from the environment prior to making a choice.&lt;/p&gt;
 
 &lt;p&gt;Click on the image below to get the PDF of the poster:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/2016_Psychonomics_poster.pdf&quot;&gt;&lt;img src=&quot;/assets/2016_Psychonomics_poster.png&quot; alt=&quot;psychonomics-poster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I’m using product reviews as an illustrative example of experience-based decision making in the wild (our experiment was more stripped down), but some recent research has looked exactly at how sampling review ratings to learn about products impacts choice (see &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/bdm.1841/full&quot;&gt;here&lt;/a&gt;). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I’m using product reviews as an illustrative example of experience-based decision making in the wild (our experiment was more stripped down), but some recent research has looked exactly at how sampling review ratings to learn about products impacts choice (see &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/bdm.1841/full&quot;&gt;here&lt;/a&gt;). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;See this recent &lt;a href=&quot;http://www.psychonomic.org/news/316843/When-EZ-does-it-Simpler-models-are-sometimes-better-than-their-complex-cousins.htm&quot;&gt;blog post&lt;/a&gt; for a nice introduction to sequential sampling models as applied to choice RT. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;See this recent &lt;a href=&quot;http://www.psychonomic.org/news/316843/When-EZ-does-it-Simpler-models-are-sometimes-better-than-their-complex-cousins.htm&quot;&gt;blog post&lt;/a&gt; for a nice introduction to sequential sampling models as applied to choice RT. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
