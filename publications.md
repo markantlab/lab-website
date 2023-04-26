@@ -9,17 +9,18 @@ comments: false
 
 ## Published
 
+- Markant, D., Rogha, M., Karduni, A., Wesslen, R., and Dou, W. (2023). [When do data visualizations persuade? The impact of prior attitudes on learning from visualizations of correlations.](https://doi.org/10.1145/3544548.3581330) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).
 - Markant, D. (2022). [Modeling the effect of chained study in transitive inference.](/assets/Markant_CogSci2022.pdf) Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 - Wesslen, R., Karduni, A., Markant, D., and Dou, W. (in press). [Effects of uncertainty visualizations on myopic loss aversion and equity premium puzzle in retirement investment decisions.](https://arxiv.org/abs/2107.02334) <i>IEEE Transactions on Visualization and Computer Graphics.</i>
 - Markant, D. (2021). [Chained study and the discovery of relational structure.](http://link.springer.com/article/10.3758/s13421-021-01201-1) <i>Memory and Cognition.</i> doi: 10.3758/s13421-021-01201-1 [[data repository](https://osf.io/hnp2j/)]
 - Karduni, A., Markant, D., Wesslen, R., & Dou, W. (2021). [A Bayesian cognition approach for belief updating of correlation judgment through uncertainty visualizations.](https://arxiv.org/abs/2008.00058) <i>IEEE Transactions on Visualization and Computer Graphics (TVCG).</i>
+- Jones, A., Markant, D., Pachur, T., Gopnik, A., and Ruggeri, A. (2021). [How is the hypothesis space represented? Evidence from young children’s active search and predictions in a multiple-cue inference task.](https://doi.org/10.1037/dev0001201) Developmental Psychology 57(7), 1080–1093. doi: 10.1037/dev0001201
 - Markant, D. (2020). [Active transitive inference: When learner control facilitates integrative encoding.](https://www.sciencedirect.com/science/article/pii/S001002772030007X) <i>Cognition 200</i>. doi: 10.1016/j.cognition.2020.104188
 - Markant, D. (2020). [Effects of “chained” study on spontaneous relational discovery.](/assets/Markant_CogSci2020_TIAwareness.pdf) In Denison, S., Mack, M., Xu, Yang., and Armstrong, B., editors, Proceedings of the 42nd Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
   - Watch the talk related to this paper [here]({% post_url 2020-07-24-cogscitalk %}).
 - Fantasia, V., Markant, D., Valeri, G., Perry, N., & Ruggeri, A. (2020). [Memory enhancements from active control of learning in children with Autism Spectrum Disorder.](https://journals.sagepub.com/doi/full/10.1177/1362361320931244) <i>Autism.</i>
 - Markant, D. (2019). [Navigating the 'chain of command': Enhanced integrative encoding through active control of study.](/assets/Markant_CogSci2019_ATI.pdf) In <i>Proceedings of the 41st Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society.
-- Ruggeri, A., Markant, D., Gureckis, T. M., Bretzke, M., & Xu, F. (2019). [Memory enhancements from active control of
-learning emerge across development.](https://doi.org/10.1016/j.cognition.2019.01.010) *Cognition* 186, 82–94. doi: 10.1016/j.cognition.2019.01.010
+- Ruggeri, A., Markant, D., Gureckis, T. M., Bretzke, M., & Xu, F. (2019). [Memory enhancements from active control of learning emerge across development.](https://doi.org/10.1016/j.cognition.2019.01.010) *Cognition* 186, 82–94. doi: 10.1016/j.cognition.2019.01.010
 - Markant, D. (2018). [Effects of biased hypothesis generation on self-directed category learning.](https://doi.org/10.1037/xlm0000671) *Journal of Experimental Psychology: Learning, Memory, and Cognition.*
 - Adams, K. A., Kachergis, G., & Markant, D. (2017). “Children’s familiarity preference in self-directed study improves recognition memory.” In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), Proceedings of the 39th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 - Markant, D., Ruggeri, A., Gureckis, T. M., and Xu, F. (2016). [“Enhanced memory as a common effect of active learning.”](/assets/MarkantEtAl_MBE2016.pdf) <i>Mind, Brain, and Education.</i>
