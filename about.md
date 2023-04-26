@@ -35,6 +35,7 @@ For more information on our research, please see the list of [publications](/pub
 - Shaina Glass, Ph.D. program in Health Psychology
 - Josh Gordon, Ph.D. program in Health Psychology
 - Ryan Hall, Ph.D. program in Health Psychology
+- Matt Andresen, M.A. program in Psychology
 
 
 
