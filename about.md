@@ -32,7 +32,12 @@ For more information on our research, please see the list of [publications](/pub
 
 ### Graduate students
 
-- Shaina Glass, Ph.D. program in Health Psychology
+![portrait](/assets/glass_portrait.jpg){:id="img-portrait"}
+
+<b>Shaina Glass</b> is a Ph.D. student in Health Psychology in the General concentration. She earned her undergraduate degree at UNC Charlotte in Psychology with a minor in Cognitive Science and a certificate in Video Game Design. 
+Her interests are in both basic and applied research with an aim to understand how cognitive processes impact health through health beliefs, decisions, and behavior, including their relationships with emotional processing and regulation. Her aims to apply knowledge gained from this research to improve and inform current health interventions for both mental and physical health and to implement interventions through applied game design to improve health outcomes and treatment accessibility.
+
+
 - Josh Gordon, Ph.D. program in Health Psychology
 - Ryan Hall, Ph.D. program in Health Psychology
 - Matt Andresen, M.A. program in Psychology
