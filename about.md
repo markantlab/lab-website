@@ -9,7 +9,7 @@ comments: false
 ## Principal Investigator
 
 <p>
-Douglas Markant, Ph.D.<br />
+Doug Markant, Ph.D.<br />
 Department of Psychological Science<br />
 University of North Carolina, Charlotte<br />
 <i>Contact:</i> dmarkant@uncc.edu<br />

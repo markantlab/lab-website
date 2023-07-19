@@ -4,13 +4,24 @@
  <title>Markant Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-04-27T14:13:03-04:00</updated>
+ <updated>2023-07-19T12:48:12-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Doug Markant</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Charlotte GRS [poster] - Best poster award to Shaina Glass!</title>
+   <link href="http://localhost:4000/2023/05/01/bestposter/"/>
+   <updated>2023-05-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2023/05/01/bestposter</id>
+   <content type="html">&lt;p&gt;Congratulations to Shaina Glass, a Health Psychology Ph.D. student in the lab, for winning the Best Poster Prize at this year’s UNC Charlotte Graduate Research Symposium! Shaina presented work from her M.A. thesis examining connections between emotion regulation habits and the preference for self-verifying feedback (see below). Congrats Shaina!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/2023_SAS_poster.pdf&quot;&gt;&lt;img src=&quot;/assets/2023_SAS_poster.png&quot; alt=&quot;sas-poster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Chained study and the discovery of relational structure [paper]</title>
