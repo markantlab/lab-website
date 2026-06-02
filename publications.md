@@ -9,6 +9,12 @@ comments: false
 
 ## Published
 
+- Markant, D. (2026). [Asymmetric shape variability biases proportion judgments with icon arrays.](http://dx.doi.org/10.1111/cogs.70227) Cognitive Science 50(5), 1–29.  doi: 10.1111/cogs.70227
+- Markant, D., Battisti, A., and Ruggeri, A. (2026). [Developmental changes in active learning of transitive relations.](https://doi.org/10.1037/dev0002187) Developmental Psychology. doi: 10.1037/dev0002187
+- Glass, S., Saxena, N., and Markant, D. (2026). [Assessing Needs for Game-Based Cognitive Flexibility Training: Interview Study Among Therapists and Clients.](https://e-jcd.org/DOIx.php?id=10.58558/jcd.2025.4.2.29) Journal of Cognitive Intervention and Digital Health. doi: 10.58558/jcd.2025.4.2.29
+- Markant, D., Sah, S., Karduni, A., Rogha, M., Thai, M., and Dou, W. (2025). [Correcting misperceptions at a glance: Using data visualizations to reduce political sectarianism.](https://ieeexplore.ieee.org/document/11298379) IEEE Transactions on Visualization and Computer Graphics. doi: 10.1109/TVCG.2025.3634777
+- Markant, D. (2025). [Self-verification and the perceived reliability of uncertain feedback sources.](https://escholarship.org/content/qt1k36p7ck/qt1k36p7ck.pdf) Proceedings of the 47th Annual Conference of the Cognitive Science Society. San Francisco, CA: Cognitive Science Society.
+- Ruggeri, A., Li, Y-L., Battisti, A., and Markant, D. (2025). [Active control of learning enhances memory across the lifespan.](https://psycnet.apa.org/record/2025-63387-001) Journal of Educational Psychology.
 - Markant, D., Rogha, M., Karduni, A., Wesslen, R., and Dou, W. (2023). [When do data visualizations persuade? The impact of prior attitudes on learning from visualizations of correlations.](https://doi.org/10.1145/3544548.3581330) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).
 - Markant, D. (2022). [Modeling the effect of chained study in transitive inference.](/assets/Markant_CogSci2022.pdf) Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 - Wesslen, R., Karduni, A., Markant, D., and Dou, W. (in press). [Effects of uncertainty visualizations on myopic loss aversion and equity premium puzzle in retirement investment decisions.](https://arxiv.org/abs/2107.02334) <i>IEEE Transactions on Visualization and Computer Graphics.</i>

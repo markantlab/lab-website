@@ -31,10 +31,11 @@ An ongoing focus of the lab is to understand how people acquire this kind of abs
 {:refdef: .selectedpubs}
 Related works:
 
-- Markant, D. (2022). [Modeling the effect of chained study in transitive inference.](/assets/Markant_CogSci2022.pdf) Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
-- Markant, D. (2021). [Chained study and the discovery of relational structure.](http://link.springer.com/article/10.3758/s13421-021-01201-1) <i>Memory and Cognition.</i> doi: 10.3758/s13421-021-01201-1 [[data repository](https://osf.io/hnp2j/)]
 - Markant, D. (2020). [Active transitive inference: When learner control facilitates integrative encoding.](https://www.sciencedirect.com/science/article/pii/S001002772030007X) <i>Cognition 200</i>. doi: 10.1016/j.cognition.2020.104188
 {:refdef}
+- Markant, D. (2021). [Chained study and the discovery of relational structure.](http://link.springer.com/article/10.3758/s13421-021-01201-1) <i>Memory and Cognition.</i> doi: 10.3758/s13421-021-01201-1 [[data repository](https://osf.io/hnp2j/)]
+- Markant, D. (2022). [Modeling the effect of chained study in transitive inference.](/assets/Markant_CogSci2022.pdf) Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
+- Markant, D., Battisti, A., and Ruggeri, A. (2026). [Developmental changes in active learning of transitive relations.](https://doi.org/10.1037/dev0002187) Developmental Psychology. doi: 10.1037/dev0002187
 
 
 ## Learning about the self: Cognitive and affective processes in self-verification
@@ -48,6 +49,7 @@ Related works:
 
 - Glass, S., Levens, S., and Markant, D. (February, 2023). <a href="/assets/2023_SAS_poster.pdf" target="_window">“The relationship between emotion regulation and self-verification.”</a> Poster presented at the Annual Meeting of the Society for Affective Science: Positive Emotion Pre-conference Workshop. Long Beach, CA, USA.
 {: refdef}
+- Markant, D. (2025). [Self-verification and the perceived reliability of uncertain feedback sources.](https://escholarship.org/content/qt1k36p7ck/qt1k36p7ck.pdf) Proceedings of the 47th Annual Conference of the Cognitive Science Society. San Francisco, CA: Cognitive Science Society.
 
 
 ## Persuasive data visualization
@@ -59,6 +61,7 @@ In a collaboration with colleagues in Computer Science, this line of research ex
 {:refdef: .selectedpubs}
 Related works:
 
-- Markant, D., Rogha, M., Karduni, A., Wesslen, R., and Dou, W. (2023). [When do data visualizations persuade? The impact of prior attitudes on learning from visualizations of correlations.](https://doi.org/10.1145/3544548.3581330) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).
 - Karduni, A., Markant, D., Wesslen, R., & Dou, W. (2021). [A Bayesian cognition approach for belief updating of correlation judgment through uncertainty visualizations.](https://arxiv.org/abs/2008.00058) <i>IEEE Transactions on Visualization and Computer Graphics (TVCG).</i>
 {:refdef}
+- Markant, D., Rogha, M., Karduni, A., Wesslen, R., and Dou, W. (2023). [When do data visualizations persuade? The impact of prior attitudes on learning from visualizations of correlations.](https://doi.org/10.1145/3544548.3581330) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).
+
