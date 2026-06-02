@@ -13,7 +13,6 @@ Doug Markant, Ph.D.<br />
 Department of Psychological Science<br />
 University of North Carolina, Charlotte<br />
 <i>Contact:</i> dmarkant@uncc.edu<br />
-<a href="https://twitter.com/dougmarkant" class="twitter-follow-button" data-show-count="false">Follow @dougmarkant</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </p>
 
 [CV](/assets/markant_cv.pdf)

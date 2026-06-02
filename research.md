@@ -37,7 +37,7 @@ Related works:
 {:refdef}
 
 
-## Learning about the self: Cognitive and affective processes in self-verification
+## Learning about the self: Cognitive and affective processes in feedback-seeking
 
 Research in psychology has shown that people often exhibit a range of <i>confirmation biases</i>, such that they seek out information or interpret evidence in a way that reinforces their existing beliefs. One manifestation of this is known as <i>self-verification</i>, in which people (knowingly or not) favor interactions or feedback that that are expected to confirm existing self-views. For instance, when given the opportunity to hear positive or negative evaluations, people with low self-esteem have been shown to prefer negative feedback, even though it reinforces existing, negative beliefs about themselves. Self-verification can create a self-fulfilling feedback loop in which people with negative self-views pay more attention (or put more trust in) negative feedback, which strengthens those views further. 
 
