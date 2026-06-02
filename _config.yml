@@ -9,12 +9,11 @@ permalink:        pretty
 title:            Markant Lab
 tagline:          'Learning, Decision making, & Cognitive Science'
 description:      'Learning, decision making, & cognitive science'
-url:              http://www.markantlab.org
+url:              https://www.markantlab.org
 baseurl:          /
 
 author:
   name:           'Doug Markant'
-  url:            https://twitter.com/dougmarkant
 
 paginate:         5
 
