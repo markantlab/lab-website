@@ -7,7 +7,7 @@ published: true
 
 We conduct research on core cognitive processes involved in learning, memory, and decision making, and explore their role in real-world problems related to education, health, and human-computer interaction. __How do people adapt to their environment to be more successful? How do we represent and reason about uncertainty? How do our existing beliefs and attitudes shape the way we explore and interact with others?__ We examine these fundamental questions about human cognition from several angles as seen in the project descriptions below. Ultimately, our research has the common goal of enhancing human learning and wellbeing through a better understanding of how people interact with and acquire new knowledge from the world around them.
 
-In support of the core scientific questions above, the lab engages in activities related to:
+In support of these core scientific questions, the lab engages in activities related to:
 - Behavioral experiments in the lab and online
 - Design and programming of experimental tasks and games
 - Computational modeling of cognition and behavior
@@ -30,12 +30,11 @@ An ongoing focus of the lab is to understand how people acquire this kind of abs
 
 {:refdef: .selectedpubs}
 Related works:
-
 - Markant, D. (2020). [Active transitive inference: When learner control facilitates integrative encoding.](https://www.sciencedirect.com/science/article/pii/S001002772030007X) <i>Cognition 200</i>. doi: 10.1016/j.cognition.2020.104188
-{:refdef}
 - Markant, D. (2021). [Chained study and the discovery of relational structure.](http://link.springer.com/article/10.3758/s13421-021-01201-1) <i>Memory and Cognition.</i> doi: 10.3758/s13421-021-01201-1 [[data repository](https://osf.io/hnp2j/)]
 - Markant, D. (2022). [Modeling the effect of chained study in transitive inference.](/assets/Markant_CogSci2022.pdf) Proceedings of the 44th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 - Markant, D., Battisti, A., and Ruggeri, A. (2026). [Developmental changes in active learning of transitive relations.](https://doi.org/10.1037/dev0002187) Developmental Psychology. doi: 10.1037/dev0002187
+{:refdef}
 
 
 ## Learning about the self: Cognitive and affective processes in self-verification
@@ -64,4 +63,5 @@ Related works:
 - Karduni, A., Markant, D., Wesslen, R., & Dou, W. (2021). [A Bayesian cognition approach for belief updating of correlation judgment through uncertainty visualizations.](https://arxiv.org/abs/2008.00058) <i>IEEE Transactions on Visualization and Computer Graphics (TVCG).</i>
 {:refdef}
 - Markant, D., Rogha, M., Karduni, A., Wesslen, R., and Dou, W. (2023). [When do data visualizations persuade? The impact of prior attitudes on learning from visualizations of correlations.](https://doi.org/10.1145/3544548.3581330) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).
+{:refdef}
 
